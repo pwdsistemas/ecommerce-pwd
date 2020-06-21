@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.prestashop.com/es/blog/feed.xml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:og="http://ogp.me/ns#" xmlns:article="http://ogp.me/ns/article#" xmlns:book="http://ogp.me/ns/book#" xmlns:profile="http://ogp.me/ns/profile#" xmlns:video="http://ogp.me/ns/video#" xmlns:product="http://ogp.me/ns/product#" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Blog Feed</title>
+    <link>https://www.prestashop.com/es/blog/feed.xml</link>
+    <description></description>
+    <language>es</language>
+     <atom:link href="https://www.prestashop.com/es/blog/feed.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>¿Cuáles son los pilares del SEO fundamentales para un eCommerce? </title>
+    <link>https://www.prestashop.com/es/blog/pilares-del-seo</link>
+    <description>¿Conoces los pilares SEO fundamentales que sustentan una estrategia de posicionamiento para una tienda online?</description>
+     <pubDate>Fri, 19 Jun 2020 18:50:55 +0200</pubDate>
+ <dc:creator>Jorge González Marcos</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/pilares-del-seo</guid>
+  </item>
+  <item>
+    <title>La importancia del precio como estrategia de venta online en una tienda online</title>
+    <link>https://www.prestashop.com/es/blog/importancia-del-precio</link>
+    <description>¿Conoces la verdadera importancia del precio dentro de la estrategia de ventas de tu tienda online?</description>
+     <pubDate>Fri, 19 Jun 2020 09:00:33 +0200</pubDate>
+ <dc:creator>Jorge González Marcos</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/importancia-del-precio</guid>
+  </item>
+  <item>
+    <title>¿Qué es el ticket medio en eCommerce y cómo aumentarlo?</title>
+    <link>https://www.prestashop.com/es/blog/ticket-medio</link>
+    <description>¿Sabes qué es el ticket medio de tu tienda online? ¿Te has parado a calcularlo y conocer a ciencia cierta si tu negocio es realmente rentable?</description>
+     <pubDate>Thu, 11 Jun 2020 07:55:57 +0200</pubDate>
+ <dc:creator>Ismael Ruiz</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/ticket-medio</guid>
+  </item>
+  <item>
+    <title>PrestaShop (e)Commerce Week: semana internacional de conferencias online</title>
+    <link>https://www.prestashop.com/es/blog/prestashop-ecommerce-week</link>
+    <description>Como socio privilegiado de la transición digital de las empresas, PrestaShop se complace en organizar la PrestaShop (e)Commerce Week.</description>
+     <pubDate>Wed, 10 Jun 2020 17:56:57 +0200</pubDate>
+ <dc:creator>Jorge González Marcos</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/prestashop-ecommerce-week</guid>
+  </item>
+  <item>
+    <title>Congreso online: ReStart &amp;amp; Scale con PrestaShop [eCommerce Fase 2]</title>
+    <link>https://www.prestashop.com/es/blog/re-start-and-scale</link>
+    <description>El sector del eCommerce está inmerso en una fase crucial, en el que el desarrollo empresarial está vinculado estrechamente al ámbito digital, el cual está motivado y potenciado principalmente por e</description>
+     <pubDate>Tue, 09 Jun 2020 00:00:00 +0200</pubDate>
+ <dc:creator>Jorge González Marcos</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/re-start-and-scale</guid>
+  </item>
+  <item>
+    <title>Los Datos: una nueva e importante fuente de ingresos para tu eCommerce</title>
+    <link>https://www.prestashop.com/es/blog/datos</link>
+    <description>¿Te has parado a analizar los datos de tu eCommerce y el rendimiento que éstos te ofrecen?</description>
+     <pubDate>Sun, 07 Jun 2020 21:58:34 +0200</pubDate>
+ <dc:creator>José Luis Valdivielso</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/datos</guid>
+  </item>
+  <item>
+    <title>10 Módulos para mejorar la experiencia del cliente y tu tasa de conversión</title>
+    <link>https://www.prestashop.com/es/blog/modulos-experiencia-del-cliente</link>
+    <description>Con el fin de ayudarte a optimizar la tasa de conversión de tu tienda a través de una mejor UX (experiencia del usuario), hemos seleccionado para ti algunos módulos disponibles en </description>
+     <pubDate>Fri, 05 Jun 2020 16:26:50 +0200</pubDate>
+ <dc:creator>Jorge González Marcos</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/modulos-experiencia-del-cliente</guid>
+  </item>
+  <item>
+    <title>Guía de “Block sliding cart”: el módulo de carro de compras deslizante</title>
+    <link>https://www.prestashop.com/es/blog/block-sliding-cart</link>
+    <description>¿Quieres cambiar el carrito predeterminado de PrestaShop por un icono de carrito fijo con un panel deslizante fuera de la pantalla?  ¡Con “Block sliding cart” sí podrás!</description>
+     <pubDate>Wed, 03 Jun 2020 13:17:19 +0200</pubDate>
+ <dc:creator>Antony Bautista</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/block-sliding-cart</guid>
+  </item>
+  <item>
+    <title>5 Mejores Módulos para mejorar tu visibilidad y potenciar tu cuenta de Instagram</title>
+    <link>https://www.prestashop.com/es/blog/mejores-modulos-instagram</link>
+    <description>¿No tienes buena visibilidad en Instagram?</description>
+     <pubDate>Mon, 01 Jun 2020 18:05:51 +0200</pubDate>
+ <dc:creator>Jose Facchin</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/mejores-modulos-instagram</guid>
+  </item>
+  <item>
+    <title>PrestaShop 1.7.7.0 (Beta) ¿en qué consiste la nueva versión y qué mejoras añade?</title>
+    <link>https://www.prestashop.com/es/blog/version-1-7-7-0</link>
+    <description>
+¿PrestaShop 1.7.7.0? ¿Quieres conocer qué mejoras añade esta nueva versión de PrestaShop que aún se encuentra en período &quot;beta&quot;?</description>
+     <pubDate>Sun, 31 May 2020 11:41:35 +0200</pubDate>
+ <dc:creator>José Manuel Serna</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/version-1-7-7-0</guid>
+  </item>
+  </channel>
+</rss>
